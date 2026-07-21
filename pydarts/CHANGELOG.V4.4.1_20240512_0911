@@ -1,0 +1,17 @@
+
+
+
+Améliorations :
+    #321 : Gestion des boutons bloqués (pour le piezo)
+    #320 : Menu "Paramétrage des boutons" : Plantage + taille bouton "Carte d'extension"
+    #319 : Envoi de données pour statistiques futures
+    #318 : Ajout de QR Code (obligation d'installer une librairie)
+    # 43 : Détection des fléchettes ratées avec un Piezo
+
+
+
+
+Corrections de bugs :
+         : Divers et variés
+
+
